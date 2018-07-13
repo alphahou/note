@@ -1,0 +1,1 @@
+\_\_dirname and \_\_filename 是local 的变量。node会自动将js文件包裹，传入这两个参数。
